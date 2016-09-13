@@ -1,0 +1,8 @@
+﻿.navbar .container .navbar-brand > p {
+    font-size: 1em;
+    line-height: 30px;
+}
+
+    .navbar .container .navbar-brand > p span {
+        font-weight: bold;
+    }
